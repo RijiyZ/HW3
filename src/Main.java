@@ -31,7 +31,7 @@ public class Main {
         long w = 27897;
         System.out.println(w);
         byte f = 67;
-        System.out.println(f + ".");
+        System.out.println(f);
 
         int ludmilaIvanovna = 23; // 3 задание
         int annaSergeevna = 27;
